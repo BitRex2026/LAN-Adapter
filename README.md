@@ -25,4 +25,5 @@ It uses the official releases published on this repository and is always up-to-d
 
 ----------------------------------------------------------------------------------------------------
 Donate: 
+
 bc1qc6kzqynntf7y06t3e5d5lzzw3s4txmc5yhwlyk
