@@ -9,7 +9,7 @@ NerdQaxe++
 NerdOctaxe
 NerdOctaxe Gamma
 ....
--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 How to flash/update firmware
 The newest releases are always here:
 https://github.com/shufps/ESP-Miner-NerdQAxePlus/releases
@@ -21,3 +21,8 @@ The [Webflasher](https://shufps.github.io/nerdqaxe-web-flasher/) (modified fork 
 
 
 It uses the official releases published on this repository and is always up-to-date.
+
+
+----------------------------------------------------------------------------------------------------
+Donate: 
+bc1qc6kzqynntf7y06t3e5d5lzzw3s4txmc5yhwlyk
