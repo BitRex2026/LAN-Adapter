@@ -1,3 +1,5 @@
+<img width="2240" height="1344" alt="ESP32-SPI" src="https://github.com/user-attachments/assets/1354506a-197b-4d38-a492-31dd38b3dc90" />
+
 Lan Adapter 
 ------------------------------------------------------------------------------------------------------------------------
 Suitable for any bitaxe and NerdQaxe variant miners that use T-Display S3 as the controller with esp-miner firmware
