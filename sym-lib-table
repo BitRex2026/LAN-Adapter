@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "BitRex_Library") (type "KiCad") (uri "C:/Users/ShamRe/Desktop/BitRex/BitRex/BitRex_Library.kicad_sym") (options "") (descr ""))
+	(lib (name "New_Library") (type "KiCad") (uri "${KIPRJMOD}/New_Library.kicad_sym") (options "") (descr ""))
+)
