@@ -2016,7 +2016,7 @@
 		)
 		(uuid "0762c399-5616-4e2a-a3c0-38822d9f4843")
 	)
-	(label "8-RST"
+	(label "8"
 		(at 115.57 34.29 270)
 		(effects
 			(font
@@ -2036,7 +2036,7 @@
 		)
 		(uuid "118c94ac-aff8-4a71-8be5-cdd91900bb06")
 	)
-	(label "6-INT"
+	(label "4"
 		(at 63.5 31.75 90)
 		(effects
 			(font
@@ -2146,7 +2146,7 @@
 		)
 		(uuid "45fda58a-5943-45c6-8060-e205ba451ce7")
 	)
-	(label "8-RST"
+	(label "8"
 		(at 91.44 34.29 270)
 		(effects
 			(font
@@ -2166,7 +2166,7 @@
 		)
 		(uuid "4a71ca9c-f7e0-4f26-8e8d-42ad12af03b7")
 	)
-	(label "4"
+	(label "4-RST"
 		(at 110.49 34.29 270)
 		(effects
 			(font
@@ -2176,7 +2176,7 @@
 		)
 		(uuid "4f27b2ec-7075-46f4-b0e8-46f621e7305b")
 	)
-	(label "6-INT"
+	(label "6"
 		(at 113.03 34.29 270)
 		(effects
 			(font
@@ -2226,7 +2226,7 @@
 		)
 		(uuid "60e14ed5-c444-4cf0-9d9b-dcba042b6c16")
 	)
-	(label "8-RST"
+	(label "4-RST"
 		(at 60.96 55.88 270)
 		(effects
 			(font
@@ -2416,7 +2416,7 @@
 		)
 		(uuid "a185f478-0f76-40f5-8e59-b63491996da8")
 	)
-	(label "4"
+	(label "4-RST"
 		(at 86.36 34.29 270)
 		(effects
 			(font
@@ -2536,7 +2536,7 @@
 		)
 		(uuid "eb2896bf-521e-43eb-9532-5524af67818a")
 	)
-	(label "6-INT"
+	(label "6"
 		(at 88.9 34.29 270)
 		(effects
 			(font
