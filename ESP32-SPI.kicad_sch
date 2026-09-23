@@ -2016,7 +2016,7 @@
 		)
 		(uuid "0762c399-5616-4e2a-a3c0-38822d9f4843")
 	)
-	(label "13-RST"
+	(label "8-RST"
 		(at 115.57 34.29 270)
 		(effects
 			(font
@@ -2026,7 +2026,7 @@
 		)
 		(uuid "0f9c8d77-dfbf-4fc0-8805-772ebc61bef5")
 	)
-	(label "2-SCLK"
+	(label "2"
 		(at 83.82 34.29 270)
 		(effects
 			(font
@@ -2036,7 +2036,7 @@
 		)
 		(uuid "118c94ac-aff8-4a71-8be5-cdd91900bb06")
 	)
-	(label "11-INT"
+	(label "6-INT"
 		(at 63.5 31.75 90)
 		(effects
 			(font
@@ -2106,7 +2106,7 @@
 		)
 		(uuid "3368c794-e32d-4ea1-9b1a-76acc98d5eb8")
 	)
-	(label "2-SCLK"
+	(label "3-SCLK"
 		(at 71.12 31.75 90)
 		(effects
 			(font
@@ -2116,7 +2116,7 @@
 		)
 		(uuid "353c237d-9350-42e5-b309-d6c0f0af3ede")
 	)
-	(label "12-MOSI"
+	(label "7-MOSI"
 		(at 60.96 31.75 90)
 		(effects
 			(font
@@ -2136,7 +2136,7 @@
 		)
 		(uuid "3b5bf425-80f9-4ab3-8afc-43827ed63035")
 	)
-	(label "16-MISO"
+	(label "17-MISO"
 		(at 63.5 55.88 270)
 		(effects
 			(font
@@ -2146,7 +2146,7 @@
 		)
 		(uuid "45fda58a-5943-45c6-8060-e205ba451ce7")
 	)
-	(label "13-RST"
+	(label "8-RST"
 		(at 91.44 34.29 270)
 		(effects
 			(font
@@ -2176,7 +2176,7 @@
 		)
 		(uuid "4f27b2ec-7075-46f4-b0e8-46f621e7305b")
 	)
-	(label "11-INT"
+	(label "6-INT"
 		(at 113.03 34.29 270)
 		(effects
 			(font
@@ -2206,7 +2206,7 @@
 		)
 		(uuid "52ef2e5a-0bcd-49ed-8c16-e1c6762dd49b")
 	)
-	(label "16-MISO"
+	(label "17-MISO"
 		(at 91.44 55.88 90)
 		(effects
 			(font
@@ -2216,7 +2216,7 @@
 		)
 		(uuid "5ae7c973-508f-4a33-9a6d-b56b9cd85422")
 	)
-	(label "12-MOSI"
+	(label "7-MOSI"
 		(at 114.3 34.29 270)
 		(effects
 			(font
@@ -2226,7 +2226,7 @@
 		)
 		(uuid "60e14ed5-c444-4cf0-9d9b-dcba042b6c16")
 	)
-	(label "13-RST"
+	(label "8-RST"
 		(at 60.96 55.88 270)
 		(effects
 			(font
@@ -2236,7 +2236,7 @@
 		)
 		(uuid "6c36bfaa-2645-48c8-8343-fc36d41f6b7d")
 	)
-	(label "12-MOSI"
+	(label "7-MOSI"
 		(at 90.17 34.29 270)
 		(effects
 			(font
@@ -2246,7 +2246,7 @@
 		)
 		(uuid "6ec7c5c8-5566-452a-b98e-69464d0ce316")
 	)
-	(label "21-SCS"
+	(label "18-SCS"
 		(at 114.3 55.88 90)
 		(effects
 			(font
@@ -2336,7 +2336,7 @@
 		)
 		(uuid "8c28691f-b6b6-4a32-9987-1c41980947a5")
 	)
-	(label "16-MISO"
+	(label "17-MISO"
 		(at 115.57 55.88 90)
 		(effects
 			(font
@@ -2366,7 +2366,7 @@
 		)
 		(uuid "94b0dc1b-2d26-4773-b9c2-7ed45155cdd4")
 	)
-	(label "3"
+	(label "3-SCLK"
 		(at 85.09 34.29 270)
 		(effects
 			(font
@@ -2376,7 +2376,7 @@
 		)
 		(uuid "99442116-2249-45fd-9b51-a4742bffa0d2")
 	)
-	(label "21-SCS"
+	(label "18-SCS"
 		(at 90.17 55.88 90)
 		(effects
 			(font
@@ -2476,7 +2476,7 @@
 		)
 		(uuid "cddfd096-3493-49ba-b01f-dab5bb6ccdc7")
 	)
-	(label "3"
+	(label "3-SCLK"
 		(at 109.22 34.29 270)
 		(effects
 			(font
@@ -2486,7 +2486,7 @@
 		)
 		(uuid "cdfe6de4-3567-4b90-9122-0a668be7d897")
 	)
-	(label "2-SCLK"
+	(label "2"
 		(at 107.95 34.29 270)
 		(effects
 			(font
@@ -2536,7 +2536,7 @@
 		)
 		(uuid "eb2896bf-521e-43eb-9532-5524af67818a")
 	)
-	(label "11-INT"
+	(label "6-INT"
 		(at 88.9 34.29 270)
 		(effects
 			(font
@@ -2546,7 +2546,7 @@
 		)
 		(uuid "eed946fc-cebd-4ab3-89c3-9d87494ab71a")
 	)
-	(label "21-SCS"
+	(label "18-SCS"
 		(at 66.04 31.75 90)
 		(effects
 			(font
@@ -2589,7 +2589,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Samtec_HLE_THT:Samtec_HLE-105-02-xx-DV-TE_2x05_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical"
 			(at 66.04 44.45 0)
 			(hide yes)
 			(show_name no)
